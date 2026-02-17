@@ -50,7 +50,7 @@
   <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" height="32">
 </a>
 
-## 📝 Changelog
+## 📝 Changelog123456
 
 See [CHANGELOG](CHANGELOG.md) for the latest updates.
 
